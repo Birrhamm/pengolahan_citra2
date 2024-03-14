@@ -65,3 +65,13 @@ plt.savefig("output_image.png")
 plt.show()
 
 ```
+
+# HASIL
+![Screenshot (273)](https://github.com/Birrhamm/pengolahan_citra2/assets/115520530/a1c22f80-8408-4c44-a357-9732f8f6f1a9)
+
+![Screenshot (274)](https://github.com/Birrhamm/pengolahan_citra2/assets/115520530/47e31b14-68dd-4007-b7b8-415ff088fe7f)
+
+![Screenshot (275)](https://github.com/Birrhamm/pengolahan_citra2/assets/115520530/0598213d-5d63-49ae-93f3-5f947e980c7d)
+
+
+
